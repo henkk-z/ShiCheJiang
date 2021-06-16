@@ -11,7 +11,7 @@
 ## 使用方法
 在网页控制台输入
 ```javascript
-javascript:void(function() { var scriptTag=document.createElement("script"); scriptTag.src='https://raw.githack.com/henkk-soft/Record-html5-video/main/Record%20video.js'; document.body.appendChild(scriptTag); })()
+javascript:void(function() { var scriptTag=document.createElement("script"); scriptTag.src='https://raw.githack.com/henkk-z/ShiCheJiang/main/Record%20video.js'; document.body.appendChild(scriptTag); })()
 ```
 
 未做适配，只在谷歌浏览器上某些网站进行测试
